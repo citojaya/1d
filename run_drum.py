@@ -4,7 +4,7 @@ import os
 import random
 import math
 import sys
-import library.vtk_tools as vtk_t
+#import library.vtk_tools as vtk_t
 import glob
 
 from optparse import OptionParser, OptionValueError
